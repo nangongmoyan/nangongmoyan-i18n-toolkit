@@ -1,5 +1,11 @@
 # nangongmoyan-i18n-toolkit
 
+## 0.1.2
+
+### Patch Changes
+
+- c5ba107: remove demo and change readme
+
 ## 0.1.1
 
 ### Patch Changes
